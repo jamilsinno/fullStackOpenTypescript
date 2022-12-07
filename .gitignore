@@ -1,5 +1,7 @@
 node_modules/
 
-flightDiarie/node_modules/
+flightDiaries/node_modules/
 
 bmiCalculator/node_modules/
+
+patientor/node_modules/
